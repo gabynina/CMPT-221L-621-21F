@@ -1,3 +1,9 @@
 {
+<<<<<<< HEAD
     "jupyter.jupyterServerType": "local"
+=======
+    "cSpell.words": [
+        "templating"
+    ]
+>>>>>>> upstream/main
 }

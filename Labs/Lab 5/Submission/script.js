@@ -7,4 +7,5 @@ document.getElementsByTagName('body')[0].getElementsByTagName('section')[0].getE
 document.body.style.backgroundColor = "gray";
 document.getElementsByTagName('body')[0].getElementsByTagName('section')[0].getElementsByTagName('ul')[0].getElementsByTagName('li')[3].style.textTransform = 'uppercase';
 document.getElementsByTagName('body')[0].getElementsByTagName('section')[0].getElementsByTagName('ul')[0].getElementsByTagName('li')[4].setAttribute('class', 'title');
-    
+
+
